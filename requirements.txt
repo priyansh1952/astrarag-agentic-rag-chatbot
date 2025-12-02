@@ -1,0 +1,30 @@
+python-dotenv
+
+# FastAPI Backend
+fastapi
+uvicorn
+
+# Pydantic
+pydantic
+pydantic-settings
+
+# CrewAI
+crewai
+crewai-tools
+
+# ChromaDB
+chromadb
+
+# LlamaIndex
+llama-index
+llama-index-core
+llama-index-vector-stores-chroma
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+
+# Frontend UI
+streamlit
+
+# Utilities
+httpx
+requests
